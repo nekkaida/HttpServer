@@ -39,8 +39,12 @@ http_server
 
 # Build directory
 build/
+bin/
 debug/
 release/
+
+# Claude Code
+.claude/
 
 # Test files
 test/
